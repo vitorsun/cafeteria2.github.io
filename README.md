@@ -1,2 +1,2 @@
-# cafeteria2.github.io
+# http://cafeteria2.github.io
 my personal website
